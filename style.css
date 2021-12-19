@@ -13,7 +13,8 @@
     width: 100%;
     height: auto;
     /* border: 1px solid black; */
-    background-color: rgb(23, 101, 185);
+    /* background-color: rgb(23, 101, 185); */
+    background-color: maroon;
     display: flex;
     justify-content: space-around;
     position: fixed;
@@ -176,10 +177,10 @@
     width: 100%;
     height: 610vh;
     /* border: 1px solid black; */
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/1-category-img-1526x714-3.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./images.jpg);
     background-size: 100% 100%;
     background-attachment: fixed;
-    padding-top: 1px;
+    padding-top: 1px;    
 }
 #head{
     text-align: center;
@@ -218,7 +219,7 @@
     width: 100%;
     height: 200px;
     /* background-color: saddlebrown; */
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/H4M1JEQiZabe4Vo2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg    );
     background-size: 100% 100%;
     transition-duration: 0.5s;
     
@@ -244,31 +245,31 @@
     color: white;
 }
 .sub5{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/RacpAWWRuobmX5g4.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub6{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/macbook-pro.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub7{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/JxaijlWopNJnHo2S.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub8{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/gcaJByrmj1hgs4n4.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub9{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/hKrLIluHRDXxUAit.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub10{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/AdQTqqV252aRMVdf.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub11{
-    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(img/hAgr2LwD6AECIwsh.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(23, 101, 185,0.7)),url(./images.jpg);
     background-size: 100% 100%;
 }
 
@@ -333,7 +334,7 @@
     width: 80%;
     height: 270px;
     /* background-color: blueviolet; */
-    background-image: url(img/tech2.jpg);
+    background-image: url(./images.jpg);
     background-size: 100% 100%;
 }
 .sub15{
@@ -427,7 +428,7 @@
     margin: auto;
     overflow: hidden;
     padding-top: 1px;
-    /* border: 1px solid black; */
+    border: 1px solid black;
     transition-duration: 0.5s;
     /* margin-top: 20px; */
     background-color: rgb(23, 101, 185);
